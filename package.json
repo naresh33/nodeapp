@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/naresh33/nodeapp/issues"
   },
-  "homepage": "https://github.com/naresh33/nodeapp#readme"
+  "homepage": "https://github.com/naresh33/nodeapp#readme",
+  "dependencies": {
+    "ibmiotf": "^0.2.41"
+  }
 }

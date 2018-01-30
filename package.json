@@ -1,0 +1,23 @@
+{
+  "name": "vehiclenodejs",
+  "version": "1.0.0",
+  "description": "This is Node sample app for simulating vehicle data",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naresh33/nodeapp.git"
+  },
+  "keywords": [
+    "node",
+    "ibmiotf"
+  ],
+  "author": "nareshkumars193@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naresh33/nodeapp/issues"
+  },
+  "homepage": "https://github.com/naresh33/nodeapp#readme"
+}
